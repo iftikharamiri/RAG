@@ -16,7 +16,7 @@ from langchain.prompts import PromptTemplate
 
 
 
-#API_KEY = os.getenv("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")
+
 
 
 # Sidebar contents
